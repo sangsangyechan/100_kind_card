@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-07",
+  "cards": 100,
+  "approved_001_025_title_body_unchanged": true,
+  "unique_titles": 100,
+  "unique_bodies": 100,
+  "distinct_image_hashes": 100,
+  "images_minimum_pixels": [
+    1086,
+    1323
+  ],
+  "official_youtube_watch_urls_unique": 100,
+  "search_links": 0,
+  "browser_checks_passed": [
+    "Initial random card loads",
+    "Name dialog updates title and signature",
+    "Gift URL preserves name and card ID",
+    "All100 gallery buttons present",
+    "Category filter returns matching cards",
+    "Next100 wraps001; previous001 wraps100",
+    "Actual image loading confirmed",
+    "External music button URL present"
+  ],
+  "syntax_checks": [
+    "node --check app.js",
+    "node --check sw.js",
+    "bash -n deploy-github.sh"
+  ],
+  "unverified": [
+    "Actual YouTube playback",
+    "Full100-track listening / complete absence of vocals",
+    "Real Android installation and offline behavior",
+    "Narrow viewport device QA",
+    "Remote GitHub Pages deployment"
+  ],
+  "github_connection": "installed_confirmed; repository tools unavailable in current session; gh unauthenticated; not deployed"
+}

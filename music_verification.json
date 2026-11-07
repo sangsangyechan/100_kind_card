@@ -1,0 +1,1639 @@
+{
+  "status": "100_official_link_metadata_records",
+  "checked_date": "2026-11-07",
+  "verification_limits": "공식 아티스트/Topic 채널·배급사 및 곡명 메타데이터를 검색 결과의 YouTube 원문 설명으로 확인. 직접 페이지 접근은 오류·제한으로 재생 확인 실패. 전곡 청취는 하지 않았음. Inst/Instrumental 명시 또는 공식 피아노·관현악 연주 음반 정보를 근거로 선별. 무가사 전곡 청취 완료를 의미하지 않음.",
+  "tracks": [
+    {
+      "song": "Memories",
+      "artist": "Ryo Yoshimata",
+      "work": "푸른 바다의 전설",
+      "youtube_official_url": "https://www.youtube.com/watch?v=zLoxQLF_ZZA",
+      "official_evidence": "Ryo Yoshimata - Topic; Provided to YouTube by Kakao Entertainment; ℗2017 JELLY FISH ENTERTAINMENT",
+      "instrumental_evidence": "Bugs score album description specifies piano, strings and horn instrumentation.",
+      "source_urls": [
+        "https://music.bugs.co.kr/album/20069632",
+        "https://www.youtube.com/watch?v=zLoxQLF_ZZA"
+      ],
+      "original_card_id": 9,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증",
+      "metadata_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Sound Of Ocean",
+      "artist": "Ryo Yoshimata",
+      "work": "푸른 바다의 전설",
+      "youtube_official_url": "https://www.youtube.com/watch?v=6VMcyV26cLg",
+      "official_evidence": "Ryo Yoshimata - Topic; Provided to YouTube by Kakao Entertainment; ℗2017 JELLY FISH ENTERTAINMENT",
+      "instrumental_evidence": "Bugs score album describes harp, strings and oboe instrumental score.",
+      "source_urls": [
+        "https://music.bugs.co.kr/album/20069632",
+        "https://www.youtube.com/watch?v=6VMcyV26cLg"
+      ],
+      "original_card_id": 10,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증",
+      "metadata_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Our Beloved Summer (Inst.)",
+      "artist": "김경희",
+      "work": "그 해 우리는",
+      "youtube_official_url": "https://www.youtube.com/watch?v=y9-8EqfKijY",
+      "official_evidence": "Kyunghee Kim - Topic; Provided to YouTube by NHN BUGS; ℗모스트콘텐츠",
+      "instrumental_evidence": "Official released track title explicitly Inst.; Bugs Part.11 confirms instrumental edition.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=y9-8EqfKijY",
+        "https://music.bugs.co.kr/album/4070468"
+      ],
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시",
+      "metadata_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Christmas Tree (Inst.)",
+      "artist": "V",
+      "work": "그 해 우리는",
+      "youtube_official_url": "https://www.youtube.com/watch?v=SYw-coTxMzE",
+      "official_evidence": "V - Topic, verified; Provided to YouTube by NHN BUGS; ℗모스트콘텐츠",
+      "instrumental_evidence": "Official released track title explicitly Inst.; Bugs track confirms edition.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=SYw-coTxMzE",
+        "https://music.bugs.co.kr/track/6140934"
+      ],
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시",
+      "metadata_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Beautiful (Inst.)",
+      "artist": "Crush",
+      "work": "도깨비",
+      "youtube_official_url": "https://www.youtube.com/watch?v=_5q6kGmKJJ0",
+      "official_evidence": "Crush Official Artist Channel; Provided to YouTube by CJ E&M Music; ℗CJ E&M MUSIC",
+      "instrumental_evidence": "Official released track title explicitly Inst.; Genie Part.4 confirms instrumental edition.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=_5q6kGmKJJ0",
+        "https://www.genie.co.kr/detail/albumInfo?axnm=80905088"
+      ],
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시",
+      "metadata_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "I Miss You (Inst.)",
+      "artist": "소유",
+      "work": "도깨비",
+      "youtube_official_url": "https://www.youtube.com/watch?v=qko4nSr1QAM",
+      "official_evidence": "SOYOU - Topic; Provided to YouTube by CJ E&M Music; ℗CJ E&M MUSIC",
+      "instrumental_evidence": "Official released track title explicitly Inst.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=qko4nSr1QAM"
+      ],
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시",
+      "metadata_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "The Last Time",
+      "artist": "Ryo Yoshimata",
+      "work": "The Legend of The Blue Sea(푸른 바다의 전설) OST Score Part.1",
+      "youtube_official_url": "https://www.youtube.com/watch?v=qMpzNjScgt4",
+      "official_evidence": "吉俣　良 - Topic (9020 followers); Provided to YouTube by Loen Entertainment; ℗ JELLY FISH ENTERTAINMENT",
+      "instrumental_evidence": "Bugs 공식 음원사 제공 앨범 소개에서 드럼·베이스·스트링 연주곡으로 설명",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=qMpzNjScgt4",
+        "https://music.bugs.co.kr/album/20069632"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증",
+      "original_card_id": 4
+    },
+    {
+      "song": "Who are you (Inst.)",
+      "artist": "샘김 Sam Kim",
+      "work": "도깨비 OST Part 6 Guardian (Original Television Soundtrack) Pt 6",
+      "youtube_official_url": "https://www.youtube.com/watch?v=efUHbe8Vr2w",
+      "official_evidence": "Sam Kim (333000 followers, Official Artist Channel); Provided to YouTube by CJ E&M Music; ℗ CJ E&M MUSIC",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=efUHbe8Vr2w"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Round and round (Feat. 한수지) (Inst.) Round and round (Feat. Han Suji) (Inst.)",
+      "artist": "헤이즈 Heize",
+      "work": "도깨비 OST Part 14 Guardian (Original Television Soundtrack) Pt 14",
+      "youtube_official_url": "https://www.youtube.com/watch?v=MCuD8gNFU_U",
+      "official_evidence": "Heize official (388000 followers, Official Artist Channel); Provided to YouTube by CJ E&M Music; ",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=MCuD8gNFU_U"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "소원 (Inst.) Wish (Inst.)",
+      "artist": "어반자카파 URBAN ZAKAPA",
+      "work": "도깨비 OST Part 10 Guardian (Original Television Soundtrack) Pt 10",
+      "youtube_official_url": "https://www.youtube.com/watch?v=zH4EYaVBGlk",
+      "official_evidence": "어반자카파 URBAN ZAKAPA (70100 followers, Official Artist Channel); Provided to YouTube by CJ E&M Music; ℗ CJ E&M MUSIC",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=zH4EYaVBGlk"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "첫 눈 (Inst.) The first snow (Inst.)",
+      "artist": "정준일 Jung Joonil",
+      "work": "도깨비 OST Part 8 Guardian (Original Television Soundtrack) Pt 8",
+      "youtube_official_url": "https://www.youtube.com/watch?v=hF5cgkK__1A",
+      "official_evidence": "Joonil Jung (35600 followers, Official Artist Channel); Provided to YouTube by CJ E&M Music; ℗ CJ E&M MUSIC",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=hF5cgkK__1A"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "I Will Go To You Like the First Snow (Inst.)",
+      "artist": "Ailee",
+      "work": "Guardian (Original Television Soundtrack), Pt. 9",
+      "youtube_official_url": "https://www.youtube.com/watch?v=gvR1glDiATs",
+      "official_evidence": "[에일리 OFFICIAL] aileemusic (832000 followers, Official Artist Channel); Provided to YouTube by Genie Music Corporation; ℗ 2017 Stone Music Entertainment, 화앤담픽쳐스",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=gvR1glDiATs"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Flower (Inst.)",
+      "artist": "윤미래 YOON MI RAE",
+      "work": "사랑의 불시착 Crash Landing on You OST Part 2",
+      "youtube_official_url": "https://www.youtube.com/watch?v=lH-5C4_MOik",
+      "official_evidence": "yoonmirae - Topic (49100 followers); Provided to YouTube by Genie Music; ℗ Genie Music Corporation",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=lH-5C4_MOik"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "다시 난, 여기 Here I Am Again (Inst.)",
+      "artist": "백예린 Yerin Baek",
+      "work": "사랑의 불시착 Crash Landing on You OST Part 4",
+      "youtube_official_url": "https://www.youtube.com/watch?v=q-wj2vWeUgY",
+      "official_evidence": "Yerin Baek (482000 followers, Official Artist Channel); Provided to YouTube by Genie Music; ℗ Genie Music Corporation",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=q-wj2vWeUgY"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "나의 모든 날 All of My Days (Inst.)",
+      "artist": "세정 SEJEONG",
+      "work": "사랑의 불시착 Crash Landing on You OST Part 8",
+      "youtube_official_url": "https://www.youtube.com/watch?v=Q9QbA_zX9CI",
+      "official_evidence": "KIM SEJEONG - Topic (170000 followers); Provided to YouTube by Genie Music; ℗ Genie Music Corporation",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=Q9QbA_zX9CI"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "You Are My Everything (inst.)",
+      "artist": "Jeong Dong Won",
+      "work": "You Are My Everything (Original Soundtrack from Recipe for Love, Pt. 2)",
+      "youtube_official_url": "https://www.youtube.com/watch?v=LoOI-PP6bNo",
+      "official_evidence": "정동원(JD1) (724000 followers, Official Artist Channel); Provided to YouTube by Genie Music Corporation; ℗ 2026 YAMYAM Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=LoOI-PP6bNo"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "You are my world (그대라는 세상) (inst)",
+      "artist": "YOON MI RAE(윤미래)",
+      "work": "The Legend of The Blue Sea (푸른 바다의 전설) OST Part.2",
+      "youtube_official_url": "https://www.youtube.com/watch?v=BfB79zH0DvE",
+      "official_evidence": "YOON MIRAE - Topic (48300 followers); Provided to YouTube by Loen Entertainment; ℗ JELLY FISH ENTERTAINMENT",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=BfB79zH0DvE"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Lean On You (inst) (Instrumental) (너에게 기울어가 (INST.) (Instrumental))",
+      "artist": "Jung Yup",
+      "work": "The Legend of The Blue Sea OST Part.3",
+      "youtube_official_url": "https://www.youtube.com/watch?v=ynufX_wv4vk",
+      "official_evidence": "Jungyup (4040 followers, Official Artist Channel); Provided to YouTube by Kakao Entertainment; ℗ 2016 JELLY FISH ENTERTAINMENT,under license to Kakao Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=ynufX_wv4vk"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Love Story (inst)",
+      "artist": "Lyn(린)",
+      "work": "The Legend of The Blue Sea (푸른바다의 전설) OST Part.1",
+      "youtube_official_url": "https://www.youtube.com/watch?v=qaDBfmq-nEs",
+      "official_evidence": "OFFICIAL LYn (123000 followers, Official Artist Channel); Provided to YouTube by Loen Entertainment; ℗ JELLY FISH ENTERTAINMENT",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=qaDBfmq-nEs"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Wind flower (Inst.) (Wind flower (Inst.))",
+      "artist": "MAMAMOO",
+      "work": "BLUE;S",
+      "youtube_official_url": "https://www.youtube.com/watch?v=7XSYZnqIiE8",
+      "official_evidence": "None (6830000 followers, Official Artist Channel); Provided to YouTube by Loen Entertainment Inc; ℗ 2018 RBW, Inc,under license to Kakao M Corp.",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=7XSYZnqIiE8"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Running (Inst.)",
+      "artist": "가호 (Gaho)",
+      "work": "스타트업 OST Part 5",
+      "youtube_official_url": "https://www.youtube.com/watch?v=kHZQi903Esw",
+      "official_evidence": "Gaho (733000 followers, Official Artist Channel); Provided to YouTube by YG PLUS; ℗ ㈜뮤직버디, ㈜블렌딩",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=kHZQi903Esw"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Day & Night (Inst.)",
+      "artist": "정승환",
+      "work": "스타트업 OST Part 2",
+      "youtube_official_url": "https://www.youtube.com/watch?v=jHJ_mHCzIFI",
+      "official_evidence": "정승환 Jung Seung Hwan (129000 followers, Official Artist Channel); Provided to YouTube by YG PLUS; ℗ ㈜뮤직버디, ㈜블렌딩",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=jHJ_mHCzIFI"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Sweet Night (Inst.)",
+      "artist": "V",
+      "work": "이태원 클라쓰 OST Part 12",
+      "youtube_official_url": "https://www.youtube.com/watch?v=L40mHbLP0Zg",
+      "official_evidence": "V - Topic (2800000 followers, Verified); Provided to YouTube by YG PLUS; ℗ (주)블렌딩",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=L40mHbLP0Zg"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Another Day (Instrumental) (Instrumental) (Another Day (Inst.) (Instrumental))",
+      "artist": "Monday Kiz · Punch",
+      "work": "Hotel del Luna (Original Television Soundtrack) Pt.1",
+      "youtube_official_url": "https://www.youtube.com/watch?v=JcWi6NCXqIo",
+      "official_evidence": "먼데이 키즈 Monday Kiz (134000 followers, Official Artist Channel); Provided to YouTube by Kakao Entertainment; ℗ 2025 Beyond Music,under license to Kakao Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=JcWi6NCXqIo"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Can You Hear Me (Inst.) (마음을 전하면 (Inst.))",
+      "artist": "Kei",
+      "work": "The Last Empress OST Part.3",
+      "youtube_official_url": "https://www.youtube.com/watch?v=Gf-cxBVlQ1Y",
+      "official_evidence": "케이 Kei (22100 followers, Official Artist Channel); Provided to YouTube by Kakao Entertainment; ℗ 2023 SBS Contents Hub Co., Ltd.,under license to Kakao Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=Gf-cxBVlQ1Y"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야 Your Shampoo Scent In The Flowers (Inst.)",
+      "artist": "장범준 Beom June Jang",
+      "work": "멜로가 체질 Be melodramatic OST Part 3",
+      "youtube_official_url": "https://www.youtube.com/watch?v=qLKFq7Rv97o",
+      "official_evidence": "장범준 (868000 followers, Official Artist Channel); Provided to YouTube by Genie Music; ℗ Genie Music Corporation, Stone Music Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=qLKFq7Rv97o"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "아로하 Aloha (Inst.)",
+      "artist": "조정석 CHO JUNG SEOK",
+      "work": "슬기로운 의사생활 HOSPITAL PLAYLIST OST Part 3",
+      "youtube_official_url": "https://www.youtube.com/watch?v=vhjLlFidAaw",
+      "official_evidence": " channel Jo jung seok (589000 followers, Official Artist Channel); Provided to YouTube by Genie Music Corporation; ℗ 2020 스튜디오 마음C, 에그이즈커밍, Stone Music Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=vhjLlFidAaw"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "화려하지 않은 고백 Confession Is Not Flashy (Inst.)",
+      "artist": "규현 (KYUHYUN)",
+      "work": "슬기로운 의사생활 OST Part 4",
+      "youtube_official_url": "https://www.youtube.com/watch?v=Jwe0Gk_2fPs",
+      "official_evidence": "규현 KYUHYUN (808000 followers, Official Artist Channel); Provided to YouTube by Genie Music Corporation; ℗ 2020 스튜디오 마음C, 에그이즈커밍, Stone Music Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=Jwe0Gk_2fPs"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Me to You, You to Me (Inst.)",
+      "artist": "Mido and Falasol",
+      "work": "HOSPITAL PLAYLIST OST Part 12",
+      "youtube_official_url": "https://www.youtube.com/watch?v=O30xex8xyic",
+      "official_evidence": "Mido and Falasol - Topic (24700 followers); Provided to YouTube by Genie Music Corporation; ℗ 2020 스튜디오 마음C, 에그이즈커밍, Stone Music Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=O30xex8xyic"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Wish (Inst.)",
+      "artist": "Choi Yu Ree",
+      "work": "Hometown Cha-Cha-Cha (Original Television Soundtrack), Pt. 4",
+      "youtube_official_url": "https://www.youtube.com/watch?v=0vkFQRhLQ0A",
+      "official_evidence": "최유리 Choi Yu Ree (237000 followers, Official Artist Channel); Provided to YouTube by Genie Music Corporation; ℗ 2021 Stone Music Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=0vkFQRhLQ0A"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Love, Maybe (Inst.)",
+      "artist": "MeloMance",
+      "work": "Love, Maybe (A Business Proposal OST Special Track)",
+      "youtube_official_url": "https://www.youtube.com/watch?v=Lc8YTP_otlQ",
+      "official_evidence": "멜로망스 MeloMance (98500 followers, Official Artist Channel); Provided to YouTube by kakao Entertainment; ℗ 2022 K-POP Music IP Company, LTD.,under license to Kakao Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=Lc8YTP_otlQ"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "You Are Mine (Inst.) (You Are Mine (Inst.))",
+      "artist": "VICTON",
+      "work": "You Are Mine (A Business Proposal OST Part.2)",
+      "youtube_official_url": "https://www.youtube.com/watch?v=KyaeNrX307A",
+      "official_evidence": "VICTON 빅톤 (779000 followers, Official Artist Channel); Provided to YouTube by Kakao Entertainment; ℗ 2022 FLEX M,under license to Kakao Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=KyaeNrX307A"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "모든 날, 모든 순간 (Every day, Every Moment) (inst.)",
+      "artist": "임한별",
+      "work": "모든 날, 모든 순간 (Every day, Every Moment)",
+      "youtube_official_url": "https://www.youtube.com/watch?v=AgzeCK_FU5o",
+      "official_evidence": "임한별 (344000 followers, Official Artist Channel); Provided to YouTube by NHN BUGS; ℗ (주)도너츠컬처",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=AgzeCK_FU5o"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "내 사랑 (MY LOVE) (Inst.) MY LOVE (Inst.)",
+      "artist": "이하이 LEE HI",
+      "work": "달의 연인 - 보보경심 려 OST Part 10 Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10",
+      "youtube_official_url": "https://www.youtube.com/watch?v=HXPoK9TJTyU",
+      "official_evidence": "OfficialLEEHI (1870000 followers, Official Artist Channel); Provided to YouTube by CJ E&M Music; ℗ CJ E&M MUSIC",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=HXPoK9TJTyU"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Say Yes (Inst.)",
+      "artist": "로꼬, 펀치 Loco, Punch",
+      "work": "달의 연인 - 보보경심 려 OST Part 2 Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt 2",
+      "youtube_official_url": "https://www.youtube.com/watch?v=LSz5Xi4-16g",
+      "official_evidence": "Loco (251000 followers, Official Artist Channel); Provided to YouTube by CJ E&M Music; ℗ CJ E&M MUSIC",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=LSz5Xi4-16g"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Here We Are (Inst.)",
+      "artist": "Kim Feel",
+      "work": "나의 해방일지 OST Part 11",
+      "youtube_official_url": "https://www.youtube.com/watch?v=7-ljsCugwuw",
+      "official_evidence": "김필 KIM FEEL (111000 followers, Official Artist Channel); Provided to YouTube by YG PLUS; ℗ Studio MaumC, JTBC Studio",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=7-ljsCugwuw"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "바람 (Inst.) Wind (Inst.)",
+      "artist": "정승환 Jung Seung-Hwan",
+      "work": "달의 연인 - 보보경심 려 OST Part 11 Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt 11",
+      "youtube_official_url": "https://www.youtube.com/watch?v=W2AubS-19qE",
+      "official_evidence": "정승환 Jung Seung Hwan (131000 followers, Official Artist Channel); Provided to YouTube by CJ E&M Music; ℗ CJ E&M MUSIC",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=W2AubS-19qE"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "One Summer's Day",
+      "artist": "Joe Hisaishi",
+      "work": "센과 치히로의 행방불명",
+      "youtube_official_url": "https://www.youtube.com/watch?v=TK1Ij_-mank",
+      "official_evidence": "Joe Hisaishi Official (1500000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 영화음악 연주 영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=TK1Ij_-mank"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Summer",
+      "artist": "Joe Hisaishi",
+      "work": "기쿠지로의 여름",
+      "youtube_official_url": "https://www.youtube.com/watch?v=d926ZOS84VA",
+      "official_evidence": "Joe Hisaishi Official (1500000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 영화음악 연주 영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=d926ZOS84VA"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "A Town with an Ocean View",
+      "artist": "Joe Hisaishi",
+      "work": "마녀 배달부 키키",
+      "youtube_official_url": "https://www.youtube.com/watch?v=pR4iCWB-VVQ",
+      "official_evidence": "Joe Hisaishi Official (1500000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 영화음악 연주 영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=pR4iCWB-VVQ"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Ashitaka and San",
+      "artist": "Joe Hisaishi",
+      "work": "모노노케 히메",
+      "youtube_official_url": "https://www.youtube.com/watch?v=faf98cNY8A8",
+      "official_evidence": "Joe Hisaishi Official (1500000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 영화음악 연주 영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=faf98cNY8A8"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "My Neighbour TOTORO (from 'My Neighbor Totoro')",
+      "artist": "Joe Hisaishi · London Symphony Orchestra",
+      "work": "이웃집 토토로",
+      "youtube_official_url": "https://www.youtube.com/watch?v=eEb9UfUOZYo",
+      "official_evidence": "Joe Hisaishi Official (1500000 followers, Official Artist Channel); Provided to YouTube by Universal Music Group; ℗ 2010 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+      "instrumental_evidence": "공식 오케스트라/피아노 영화음악 트랙. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=eEb9UfUOZYo"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "The Sixth Station",
+      "artist": "Joe Hisaishi",
+      "work": "센과 치히로의 행방불명",
+      "youtube_official_url": "https://www.youtube.com/watch?v=qSNi0kYQH8Q",
+      "official_evidence": "Joe Hisaishi Official (1500000 followers, Official Artist Channel); Provided to YouTube by Universal Music Group; ℗ 2002 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
+      "instrumental_evidence": "공식 오케스트라/피아노 영화음악 트랙. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=qSNi0kYQH8Q"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Mother's Broom (from Kiki's Delivery Service)",
+      "artist": "Joe Hisaishi",
+      "work": "마녀 배달부 키키",
+      "youtube_official_url": "https://www.youtube.com/watch?v=gYBsmbJrXQ4",
+      "official_evidence": "Joe Hisaishi Official (1490000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 영화음악 연주 영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=gYBsmbJrXQ4"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "May Be",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=PeU3LS_s03I",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 피아노 연주 음반·영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=PeU3LS_s03I"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Love Me",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=N7p2UeB_QRM",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 피아노 연주 음반·영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=N7p2UeB_QRM"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Passing By",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=m2uIbyraXQ8",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 피아노 연주 음반·영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=m2uIbyraXQ8"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Indigo",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=acDyYYKxdhE",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 피아노 연주 음반·영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=acDyYYKxdhE"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Scenery",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=LIVlQUdiKSg",
+      "official_evidence": "YIRUMA place / 이루마 official (1690000 followers, Official Artist Channel); Provided to YouTube by SME Korea Inc.; ℗ 2011 Sony Music Entertainment Korea Inc.",
+      "instrumental_evidence": "공식 피아노 연주자 음반 트랙. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=LIVlQUdiKSg"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Loanna",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=Hpk7_Sfn_Ro",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 피아노 연주 음반·영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=Hpk7_Sfn_Ro"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Wait There",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=H1q6bvj25o8",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel); Provided to YouTube by SME Korea Inc.; ℗ 2011 Sony Music Entertainment Korea Inc.",
+      "instrumental_evidence": "공식 피아노 연주자 음반 트랙. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=H1q6bvj25o8"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "When The Love Falls",
+      "artist": "Yiruma",
+      "work": "First Love (The Original & the Very First Recording)",
+      "youtube_official_url": "https://www.youtube.com/watch?v=o0tc2B69f4U",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel); Provided to YouTube by GENIE MUSIC; ℗ Stomp Music under licence to Genie Music Corporation",
+      "instrumental_evidence": "공식 피아노 연주자 음반 트랙. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=o0tc2B69f4U"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "It's Your Day",
+      "artist": "Yiruma",
+      "work": "First Love (The Original & the Very First Recording)",
+      "youtube_official_url": "https://www.youtube.com/watch?v=Yl4e-Te4Tdg",
+      "official_evidence": "YIRUMA place / 이루마 official (1710000 followers, Official Artist Channel); Provided to YouTube by GENIE MUSIC; ℗ Stomp Music under licence to Genie Music Corporation",
+      "instrumental_evidence": "공식 피아노 연주자 음반 트랙. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=Yl4e-Te4Tdg"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Dream A Little Dream Of Me",
+      "artist": "Yiruma",
+      "work": "First Love (The Original & the Very First Recording)",
+      "youtube_official_url": "https://www.youtube.com/watch?v=C7y6THGeAnk",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel); Provided to YouTube by GENIE MUSIC; ℗ Stomp Music under licence to Genie Music Corporation",
+      "instrumental_evidence": "공식 피아노 연주자 음반 트랙. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=C7y6THGeAnk"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Till I Find You",
+      "artist": "Yiruma",
+      "work": "First Love (The Original & the Very First Recording (Repackage))",
+      "youtube_official_url": "https://www.youtube.com/watch?v=pjfb50UZdv0",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel); Provided to YouTube by GENIE MUSIC; ℗ Stomp Music under licence to Genie Music Corporation",
+      "instrumental_evidence": "공식 피아노 연주자 음반 트랙. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=pjfb50UZdv0"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Nocturnal Mind",
+      "artist": "Yiruma",
+      "work": "Songs for Sleep and Relaxation",
+      "youtube_official_url": "https://www.youtube.com/watch?v=FpsDler0IQA",
+      "official_evidence": "YIRUMA place / 이루마 official (1710000 followers, Official Artist Channel); Provided to YouTube by Universal Music Group; ℗ 2020 Mind Tailor Music",
+      "instrumental_evidence": "공식 피아노 연주자 음반 트랙. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=FpsDler0IQA"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Room With A View",
+      "artist": "Yiruma",
+      "work": "Room With A View",
+      "youtube_official_url": "https://www.youtube.com/watch?v=6Oph9z-3vFg",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 피아노 연주 음반·영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=6Oph9z-3vFg"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "when it snows in May",
+      "artist": "Yiruma",
+      "work": "when it snows in May",
+      "youtube_official_url": "https://www.youtube.com/watch?v=wAURGK1iq-Q",
+      "official_evidence": "YIRUMA place / 이루마 official (1710000 followers, Official Artist Channel)",
+      "instrumental_evidence": "아티스트 공식 피아노 연주 음반·영상. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=wAURGK1iq-Q"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "너를 위해 (Inst.) For You (Inst.)",
+      "artist": "첸, 백현, 시우민 (EXO) CHEN, BAEKHYUN, XIUMIN (EXO)",
+      "work": "달의 연인 - 보보경심 려 OST Part 1 Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt 1",
+      "youtube_official_url": "https://www.youtube.com/watch?v=T41F3bO70HY",
+      "official_evidence": "CHEN (2040000 followers, Official Artist Channel); Provided to YouTube by CJ E&M Music; ℗ CJ E&M MUSIC",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=T41F3bO70HY"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Make it count (Inst.) (Instrumental) (Make it count (Inst.) (Instrumental))",
+      "artist": "CHEN",
+      "work": "Touch your heart OST",
+      "youtube_official_url": "https://www.youtube.com/watch?v=D_XveCQoqpM",
+      "official_evidence": "CHEN (2049999 followers, Official Artist Channel); Provided to YouTube by Kakao Entertainment; ℗ 2019 JELLY FISH ENTERTAINMENT,under license to Kakao Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=D_XveCQoqpM"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "I Love You Boy (Inst.)",
+      "artist": "수지(Suzy)",
+      "work": "당신이 잠든 사이에 OST Part 4",
+      "youtube_official_url": "https://www.youtube.com/watch?v=AR5yM_Q52Ik",
+      "official_evidence": "Suzy - Topic (157000 followers); Provided to YouTube by YG PLUS; ℗ 가지컨텐츠",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=AR5yM_Q52Ik"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "It's You (Inst.)",
+      "artist": "헨리(HENRY)",
+      "work": "당신이 잠든 사이에 OST Part 2",
+      "youtube_official_url": "https://www.youtube.com/watch?v=J_JAK6q1U2Y",
+      "official_evidence": "헨리 HENRY LAU (2500000 followers, Official Artist Channel); Provided to YouTube by YG PLUS; ℗ 가지컨텐츠",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=J_JAK6q1U2Y"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "그대를 잊는다는 건 (Inst.) Forgetting You (Inst.)",
+      "artist": "다비치 Davichi",
+      "work": "달의 연인 - 보보경심 려 OST Part 4 Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt 4",
+      "youtube_official_url": "https://www.youtube.com/watch?v=IX7vphbj7nU",
+      "official_evidence": "DAVICHI (314000 followers, Official Artist Channel); Provided to YouTube by CJ E&M Music; ℗ CJ E&M MUSIC",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=IX7vphbj7nU"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "노을 Sunset (Inst.)",
+      "artist": "다비치 DAVICHI",
+      "work": "사랑의 불시착 Crash Landing on You OST Part 3",
+      "youtube_official_url": "https://www.youtube.com/watch?v=N77n_i_N4IQ",
+      "official_evidence": "DAVICHI (313000 followers, Official Artist Channel); Provided to YouTube by Genie Music; ℗ Genie Music Corporation",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=N77n_i_N4IQ"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "그리고 하나 (Only one) (inst)",
+      "artist": "태연 (Tae Yeon)",
+      "work": "그 겨울, 바람이 분다 OST Part 5 (Baramibunda OST Part 5)",
+      "youtube_official_url": "https://www.youtube.com/watch?v=fmAqHAmSbpE",
+      "official_evidence": "TAEYEON Official (935000 followers, Official Artist Channel); Provided to YouTube by YouTube CSV2DDEX; ℗ Goldenthumb Holdings",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=fmAqHAmSbpE"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "By My Side (Inst.)",
+      "artist": "TAEYEON",
+      "work": "Our Blues, Pt. 6 (Original Television Soundtrack)",
+      "youtube_official_url": "https://www.youtube.com/watch?v=sJIS29FaHWk",
+      "official_evidence": "TAEYEON Official (939000 followers, Official Artist Channel); Provided to YouTube by Genie Music Corporation; ℗ 2022 YAMYAM Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=sJIS29FaHWk"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "시작 (Inst.)",
+      "artist": "가호 (Gaho)",
+      "work": "이태원 클라쓰 OST Part 2",
+      "youtube_official_url": "https://www.youtube.com/watch?v=mLFJBPr6EBk",
+      "official_evidence": "Gaho (733000 followers, Official Artist Channel); Provided to YouTube by YG PLUS; ℗ (주)블렌딩",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=mLFJBPr6EBk"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Adrenaline (Inst.)",
+      "artist": "Solar (MAMAMOO)",
+      "work": "VINCENZO OST Part 3",
+      "youtube_official_url": "https://www.youtube.com/watch?v=xhHEZC2ddJw",
+      "official_evidence": "Solar - Topic (50600 followers); Provided to YouTube by Genie Music Corporation; ℗ 2021 Stone Music Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=xhHEZC2ddJw"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "Romantic Sunday (Inst.)",
+      "artist": "Car, the Garden",
+      "work": "Hometown Cha-Cha-Cha (Original Television Soundtrack), Pt. 1",
+      "youtube_official_url": "https://www.youtube.com/watch?v=HzLTu0IGVD8",
+      "official_evidence": "카더가든 (Car, the garden) (180000 followers, Official Artist Channel); Provided to YouTube by Genie Music Corporation; ℗ 2021 Stone Music Entertainment",
+      "instrumental_evidence": "공식 음원명에 Inst./Instrumental 명시",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=HzLTu0IGVD8"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 발매명에 Inst./Instrumental 명시"
+    },
+    {
+      "song": "River Flows In You",
+      "artist": "Yiruma",
+      "work": "First Love",
+      "youtube_official_url": "https://www.youtube.com/watch?v=92IlKBhKbWM",
+      "official_evidence": "YIRUMA place / 이루마 official, Official Artist Channel; Provided to YouTube by GENIE MUSIC; Stomp Music",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=92IlKBhKbWM"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Kiss The Rain",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=imGaOIm5HOk",
+      "official_evidence": "YIRUMA place / 이루마 official, Official Artist Channel; ©2011 Sony Music Entertainment Korea",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=imGaOIm5HOk"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Reminiscent",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=_khgXXCr2aY",
+      "official_evidence": "YIRUMA place / 이루마 official, Official Artist Channel; Provided to YouTube by SME Korea Inc.; ℗2011 Sony Music Entertainment Korea",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=_khgXXCr2aY"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Merry-Go-Round of Life",
+      "artist": "Joe Hisaishi",
+      "work": "하울의 움직이는 성",
+      "youtube_official_url": "https://www.youtube.com/watch?v=xxsvTvDQKMY",
+      "official_evidence": "Joe Hisaishi Official, Official Artist Channel; Provided to YouTube by Universal Music Group; ℗2005 UNIVERSAL SIGMA",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인. 전곡 청취 미검증.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=xxsvTvDQKMY"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/스코어 메타데이터 확인; 청취 미검증"
+    },
+    {
+      "song": "Sundial Dreams",
+      "artist": "Kevin Kern",
+      "work": "In the Enchanted Garden",
+      "youtube_official_url": "https://www.youtube.com/watch?v=PdNHKhK8Uek",
+      "official_evidence": "Kevin Kern (36500 followers, Official Artist Channel)",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=PdNHKhK8Uek"
+      ],
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false
+    },
+    {
+      "song": "The Enchanted Garden",
+      "artist": "Kevin Kern",
+      "work": "In the Enchanted Garden",
+      "youtube_official_url": "https://www.youtube.com/watch?v=-lQENTkiUqg",
+      "official_evidence": "Kevin Kern (36300 followers, Official Artist Channel); Provided to YouTube by The Orchard Enterprises; ℗ 1996 Real Music",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=-lQENTkiUqg"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증"
+    },
+    {
+      "song": "Return to Love",
+      "artist": "Kevin Kern",
+      "work": "Summer Daydreams",
+      "youtube_official_url": "https://www.youtube.com/watch?v=ls5nA3y7NWE",
+      "official_evidence": "Kevin Kern (36100 followers, Official Artist Channel); Provided to YouTube by The Orchard Enterprises; ℗ 1998 Real Music",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=ls5nA3y7NWE"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증"
+    },
+    {
+      "song": "After the Rain",
+      "artist": "Kevin Kern",
+      "work": "In the Enchanted Garden",
+      "youtube_official_url": "https://www.youtube.com/watch?v=WbhHw-Q-UA4",
+      "official_evidence": "Kevin Kern (36500 followers, Official Artist Channel); Provided to YouTube by The Orchard Enterprises; ℗ 1996 Real Music",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=WbhHw-Q-UA4"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증"
+    },
+    {
+      "song": "Warm Affection",
+      "artist": "Yuhki Kuramoto",
+      "work": "Misty Lake Louise",
+      "youtube_official_url": "https://www.youtube.com/watch?v=WqK4x_jn2bk",
+      "official_evidence": "None (11900 followers); Provided to YouTube by FLUXUS INC.; ℗ 2019 C&L MUSIC",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=WqK4x_jn2bk"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증"
+    },
+    {
+      "song": "Fotografia(희망이란 아이)",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=yTAdS8FNjjg",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel)",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=yTAdS8FNjjg"
+      ],
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false
+    },
+    {
+      "song": "Do You?",
+      "artist": "Yiruma",
+      "work": "The Best - Reminiscent 10th Anniversary",
+      "youtube_official_url": "https://www.youtube.com/watch?v=1PYpbiFLnqs",
+      "official_evidence": "YIRUMA place / 이루마 official (1720000 followers, Official Artist Channel)",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=1PYpbiFLnqs"
+      ],
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false
+    },
+    {
+      "song": "The Sunbeams,They Scatter",
+      "artist": "Yiruma",
+      "work": "Kiss The Rain",
+      "youtube_official_url": "https://www.youtube.com/watch?v=DMH4ZwxjFME",
+      "official_evidence": "YIRUMA place / 이루마 official (1680000 followers, Official Artist Channel); Provided to YouTube by Universal Music Group; ℗ 2021 Mind Tailor Music",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=DMH4ZwxjFME"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증"
+    },
+    {
+      "song": "Asian Dream Song",
+      "artist": "Joe Hisaishi · Pan Strings",
+      "work": "PIANO STORIES II The Wind of Life",
+      "youtube_official_url": "https://www.youtube.com/watch?v=VbemfsEIbiw",
+      "official_evidence": "Joe Hisaishi Official (1500000 followers, Official Artist Channel); Provided to YouTube by Universal Music Group; ℗ 1996 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=VbemfsEIbiw"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증"
+    },
+    {
+      "song": "Joe Hisaishi: Spring",
+      "artist": "Lang Lang",
+      "work": "Rush E",
+      "youtube_official_url": "https://www.youtube.com/watch?v=fUs_AsENjJc",
+      "official_evidence": "None (549000 followers, Official Artist Channel); Provided to YouTube by Universal Music Group; ℗ 2025 Deutsche Grammophon GmbH, Berlin",
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=fUs_AsENjJc"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증"
+    },
+    {
+      "song": "Water Traveller",
+      "artist": "Joe Hisaishi",
+      "work": "피아노/관현악 연주곡",
+      "youtube_official_url": "https://www.youtube.com/watch?v=8MX2qyNnbA8",
+      "official_evidence": "Joe Hisaishi Official (1490000 followers, Official Artist Channel)",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=8MX2qyNnbA8"
+      ],
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false
+    },
+    {
+      "song": "The Rain",
+      "artist": "Joe Hisaishi",
+      "work": "피아노/관현악 연주곡",
+      "youtube_official_url": "https://www.youtube.com/watch?v=hXwTMetgWdQ",
+      "official_evidence": "Joe Hisaishi Official (1500000 followers, Official Artist Channel)",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=hXwTMetgWdQ"
+      ],
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false
+    },
+    {
+      "song": "il porco rosso",
+      "artist": "Joe Hisaishi",
+      "work": "피아노/관현악 연주곡",
+      "youtube_official_url": "https://www.youtube.com/watch?v=y5h8OI1qWWY",
+      "official_evidence": "Joe Hisaishi Official (1490000 followers, Official Artist Channel)",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=y5h8OI1qWWY"
+      ],
+      "instrumental_evidence": "공식 피아노/관현악 연주 음반·영상 메타데이터 확인; 전곡 청취 미검증",
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 연주 음반/영상; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false
+    },
+    {
+      "song": "Best Luck (Instrumental)",
+      "artist": "CHEN",
+      "work": "괜찮아 사랑이야",
+      "youtube_official_url": "https://www.youtube.com/watch?v=yjsUb-za9FQ",
+      "official_evidence": "CHEN Official Artist Channel; Genie Music Corporation; ℗2014 Stone Music Entertainment, GAZI Contents",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=yjsUb-za9FQ"
+      ],
+      "retrieval_ref": "turn113youtube14",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "It's Okay, That's Love (Instrumental)",
+      "artist": "DAVICHI",
+      "work": "괜찮아 사랑이야",
+      "youtube_official_url": "https://www.youtube.com/watch?v=bOrLvFvzhuw",
+      "official_evidence": "DAVICHI Official Artist Channel; Genie Music Corporation; ℗2014 Stone Music Entertainment, GAZI Contents",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=bOrLvFvzhuw"
+      ],
+      "retrieval_ref": "turn115youtube12",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Sleepless Night (Instrumental)",
+      "artist": "Crush",
+      "work": "괜찮아 사랑이야",
+      "youtube_official_url": "https://www.youtube.com/watch?v=7bYY9dlzYnE",
+      "official_evidence": "Crush Official Artist Channel; Genie Music Corporation; ℗2014 Stone Music Entertainment, GAZI Contents",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=7bYY9dlzYnE"
+      ],
+      "retrieval_ref": "turn115youtube13",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "I Love You (Instrumental)",
+      "artist": "YOON MIRAE",
+      "work": "괜찮아 사랑이야",
+      "youtube_official_url": "https://www.youtube.com/watch?v=YspPEG7cuwY",
+      "official_evidence": "Yoonmirae - Topic; Genie Music Corporation; ℗2014 Stone Music Entertainment, GAZI Contents",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=YspPEG7cuwY"
+      ],
+      "retrieval_ref": "turn116youtube7",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "My Destiny (Instrumental)",
+      "artist": "LYn",
+      "work": "별에서 온 그대",
+      "youtube_official_url": "https://www.youtube.com/watch?v=b70pwDkhwbA",
+      "official_evidence": "OFFICIAL LYn Official Artist Channel; GENIE MUSIC; ℗2013 Studio S Co.,Ltd under licence to Genie Music Corporation",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=b70pwDkhwbA"
+      ],
+      "retrieval_ref": "turn126youtube9",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Every moment of you (Instrumental)",
+      "artist": "Sung Si Kyung",
+      "work": "별에서 온 그대",
+      "youtube_official_url": "https://www.youtube.com/watch?v=rZ06oFuJhhg",
+      "official_evidence": "성시경 SUNG SI KYUNG Official Artist Channel; Kakao Entertainment; ℗2023 SBS ContentsHub under license to Kakao Entertainment",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=rZ06oFuJhhg"
+      ],
+      "retrieval_ref": "turn131youtube11",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Good bye (Instrumental)",
+      "artist": "HYOLYN",
+      "work": "별에서 온 그대",
+      "youtube_official_url": "https://www.youtube.com/watch?v=k5tQzwwqngY",
+      "official_evidence": "HYOLYN 효린 Official Artist Channel; GENIE MUSIC; ℗2014 Studio S Co.,Ltd under licence to Genie Music Corporation",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=k5tQzwwqngY"
+      ],
+      "retrieval_ref": "turn136youtube11",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "My Love From the Star (Instrumental)",
+      "artist": "YOUNHA",
+      "work": "별에서 온 그대",
+      "youtube_official_url": "https://www.youtube.com/watch?v=X-2ejpHPeeU",
+      "official_evidence": "YOUNHA OFFICIAL Official Artist Channel; GENIE MUSIC; ℗2014 Studio S Co.,Ltd under licence to Genie Music Corporation",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=X-2ejpHPeeU"
+      ],
+      "retrieval_ref": "turn136youtube12",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Maybe I (Instrumental)",
+      "artist": "Roy Kim",
+      "work": "또 오해영",
+      "youtube_official_url": "https://www.youtube.com/watch?v=MxqGI-uGRFs",
+      "official_evidence": "로이킴 Roy Kim Official Artist Channel; Genie Music Corporation; ℗2016 Stone Music Entertainment",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=MxqGI-uGRFs"
+      ],
+      "retrieval_ref": "turn141youtube6",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Little Miss Sunshine (Instrumental)",
+      "artist": "WABLE",
+      "work": "또 오해영",
+      "youtube_official_url": "https://www.youtube.com/watch?v=gbwu5nK6W5w",
+      "official_evidence": "WABLE - Topic; Genie Music Corporation; ℗2016 Stone Music Entertainment",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=gbwu5nK6W5w"
+      ],
+      "retrieval_ref": "turn142youtube10",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "If It Is You (Instrumental)",
+      "artist": "Jung Seung Hwan",
+      "work": "또 오해영",
+      "youtube_official_url": "https://www.youtube.com/watch?v=W6ECl8h74OE",
+      "official_evidence": "정승환 Jung Seung Hwan Official Artist Channel; Genie Music Corporation; ℗2016 Stone Music Entertainment",
+      "instrumental_evidence": "Retrieved official YouTube track title explicitly labels Instrumental; full audio not listened.",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=W6ECl8h74OE"
+      ],
+      "retrieval_ref": "turn142youtube11",
+      "youtube_status": "공식 아티스트/Topic 채널 및 배급사 메타데이터 확인",
+      "instrumental_status": "공식 트랙명 Instrumental 확인; 전곡 청취 미검증",
+      "metadata_verified": true,
+      "instrumental_verified": true,
+      "playback_verified": false,
+      "audio_listened": false
+    },
+    {
+      "song": "Chopin: Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
+      "artist": "Lang Lang",
+      "work": "Piano Book 2",
+      "youtube_official_url": "https://www.youtube.com/watch?v=lqHaA_5o9mg",
+      "official_evidence": "Lang Lang (545000 followers, Official Artist Channel); Provided to YouTube by Universal Music Group; ℗ 2025 Deutsche Grammophon GmbH, Berlin",
+      "instrumental_evidence": "공식 피아노 연주 음반/공연. 전곡 청취 미검증",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=lqHaA_5o9mg"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "composer": "Frédéric Chopin",
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 피아노·관현악 연주 음반/공연; 전곡 청취 미검증"
+    },
+    {
+      "song": "Consolation No. 3 in D-Flat Major, S. 172",
+      "artist": "Lang Lang",
+      "work": "Liszt - My Piano Hero",
+      "youtube_official_url": "https://www.youtube.com/watch?v=ufBUoUM3-TA",
+      "official_evidence": "Lang Lang (544000 followers, Official Artist Channel); Provided to YouTube by Sony Classical; ℗ 2011 Sony Music Entertainment",
+      "instrumental_evidence": "공식 피아노 연주 음반/공연. 전곡 청취 미검증",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=ufBUoUM3-TA"
+      ],
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 피아노·관현악 연주 음반/공연; 전곡 청취 미검증"
+    },
+    {
+      "song": "Nuvole Bianche",
+      "artist": "Ludovico Einaudi",
+      "work": "Una Mattina",
+      "youtube_official_url": "https://www.youtube.com/watch?v=VUCI-1vIbUo",
+      "official_evidence": "Ludovico Einaudi, Official Artist Channel; ©2019 Ludovico Einaudi under exclusive licence to Universal Music Operations Limited",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=VUCI-1vIbUo"
+      ],
+      "instrumental_evidence": "공식 피아노 연주 음반/공연. 전곡 청취 미검증",
+      "metadata_verified": true,
+      "audio_listened": false,
+      "playback_verified": false,
+      "youtube_status": "공식 아티스트/배급사 메타데이터 확인",
+      "instrumental_status": "공식 피아노·관현악 연주 음반/공연; 전곡 청취 미검증"
+    }
+  ]
+}
