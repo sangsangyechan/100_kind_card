@@ -1,4 +1,4 @@
-const VERSION = 'positive-cards-100-v1';
+const VERSION = 'positive-cards-100-upload-v2';
 const CORE = ['./','./index.html','./style.css','./app.js','./cards.json','./manifest.webmanifest','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
 self.addEventListener('install', event => {event.waitUntil(caches.open(VERSION).then(cache => cache.addAll(CORE)));self.skipWaiting();});
 self.addEventListener('activate', event => {event.waitUntil(Promise.all([caches.keys().then(keys => Promise.all(keys.filter(k => k.startsWith('positive-cards-') && k !== VERSION).map(k => caches.delete(k)))),self.clients.claim()]));});

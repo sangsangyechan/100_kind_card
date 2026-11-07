@@ -1,0 +1,12 @@
+{
+  "cards": 100,
+  "images": 100,
+  "icons": 3,
+  "all_card_image_paths_exist": true,
+  "all_manifest_icons_exist": true,
+  "image_hashes_unique": 100,
+  "all_images_at_least_1000px_each_side": true,
+  "approved_content_preserved": true,
+  "cache_version": "positive-cards-100-upload-v2",
+  "remote_repository_modified": false
+}

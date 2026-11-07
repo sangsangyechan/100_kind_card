@@ -82,7 +82,7 @@ $('close-gift').addEventListener('click', () => $('gift-dialog').close());
 $('copy-gift').addEventListener('click', async () => {try {await navigator.clipboard.writeText($('gift-url').value);toast('선물 링크를 복사했어.');$('gift-dialog').close();} catch { $('gift-url').focus();$('gift-url').select();toast('링크를 길게 눌러 복사해 줘.');}});
 for (const id of ['name-dialog','gift-dialog']) $(id).addEventListener('click', event => {if(event.target !== $(id)) return;const r = $(id).getBoundingClientRect();if(event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) $(id).close();});
 document.addEventListener('keydown', event => {if (event.target.matches('input,select,textarea') || document.querySelector('dialog[open]')) return;if (event.key === 'ArrowLeft') go(index - 1);if (event.key === 'ArrowRight') go(index + 1);});
-$('art').addEventListener('error', () => {toast('그림을 불러오지 못했어. 연결 상태를 확인해 줘.');});
+$('art').addEventListener('error', () => {toast('그림을 불러오지 못했어. images 폴더 업로드와 연결 상태를 확인해 줘.');});
 $('retry').addEventListener('click', () => location.reload());
 window.addEventListener('beforeinstallprompt', event => {event.preventDefault();installPrompt = event;$('install').hidden = false;});
 $('install').addEventListener('click', async () => {if (!installPrompt) return;await installPrompt.prompt();await installPrompt.userChoice;installPrompt = null;$('install').hidden = true;});
